@@ -4,8 +4,8 @@ egg.js定时任务备份微信小程序云开发数据库，这里只是简单�
 
 参数配置参考我另外一篇文章【[巧用Node.js process隐藏项目重要参数](https://juejin.cn/post/7028865719102079012)】
 
-git地址：https://github.com/taosiqi/mfa-export-database
-
+git地址：https://github.com/taosiqi/mfa-export-database  
+掘金文章地址：https://juejin.cn/post/7031802188489981982
 # 代码
 
 ## config/config.default.js
