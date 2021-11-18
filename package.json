@@ -1,7 +1,7 @@
 {
   "name": "mfa-export-database",
   "version": "1.0.0",
-  "description": "is_tao",
+  "description": "egg.js定时备份微信小程序云开发数据库",
   "private": true,
   "egg": {
     "declarations": true
